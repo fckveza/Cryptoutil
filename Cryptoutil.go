@@ -1,4 +1,4 @@
-package VHtearCryptoutil
+package Cryptoutil
 
 //Made with the happiness of VHtear
 
